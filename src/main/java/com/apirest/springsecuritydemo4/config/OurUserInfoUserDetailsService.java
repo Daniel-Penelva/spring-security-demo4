@@ -24,3 +24,6 @@ public class OurUserInfoUserDetailsService implements UserDetailsService {
     }
 
 }
+
+/*Serviço de detalhes do usuário que é responsável por carregar as informações do usuário 
+a partir de um repositório de dados, como um banco de dados.*/
